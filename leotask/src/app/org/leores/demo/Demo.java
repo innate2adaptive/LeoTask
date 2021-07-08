@@ -23,14 +23,14 @@ public class Demo extends LogUtil {
 		//DelimitedReaderDemo.demo();
 		//EpidemicDemo.demo();
 		//FileUtilDemo.demo();
-		//JGnuplotDemo.demo();
+		JGnuplotDemo.demo();
 		//MathDemo.demo();
 		//ModDemo.demo();
 		//NetDemo.demo();
 		//ObjUtilDemo.demo();
 		//ProcessableDemo.demo();
 		//RandomUtilDemo.demo();
-		TaskDemo.demo();
+		//TaskDemo.demo();
 		//UtilDemo.demo();
 	}
 }
